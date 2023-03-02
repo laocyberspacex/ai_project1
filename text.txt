@@ -1,2 +1,3 @@
 This is an example of text file
 Changed 1st 
+Changed 2nd
